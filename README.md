@@ -18,7 +18,7 @@ Layout: Menggunakan flexbox dan grid agar rapi dan proporsional.
 
 Tipografi: Kombinasi font serif & sans-serif untuk tampilan elegan.
 
-Warna & Tema: Sesuai tema “Go Green” 🌱 (hijau, krem, cokelat) dengan gradasi warna di header dan tombol.
+Warna & Tema: Sesuai tema “Go Green” 🌱 dengan gradasi warna di header dan tombol.
 
 Efek CSS:
 
@@ -39,3 +39,4 @@ Buka index.html di browser untuk melihat hasil styling.
 Prompt AI yang Digunakan
 
 Membuat styling CSS modern dan responsif untuk website “Go Green” tanpa JavaScript, dengan efek hover, bayangan, gradasi, kombinasi font serif & sans-serif, sambil mempertahankan semua section HTML.
+
